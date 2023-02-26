@@ -1,4 +1,4 @@
-# exercicios-javascript
+# Exercícios JavaScript
  _*Treinando javaScript*_
  <br/>
  <hr/>
