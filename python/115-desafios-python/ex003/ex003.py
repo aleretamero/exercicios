@@ -1,4 +1,4 @@
-# Código para soma 2 números.
+# Some 2 números.
 
 n1 = int(input('Digite um valor: '))
 n2 = int(input('Digite outro valor: '))
